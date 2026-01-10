@@ -6,7 +6,7 @@ I’m a full-stack engineer with a strong focus on system design and agentic AI 
 
 My core strength lies in designing clean backend systems, scalable APIs, and AI-powered workflows where agents act autonomously under well-defined constraints. I’m particularly interested in multi-agent systems, backend-driven AI orchestration, and real-world problem solving using JavaScript and modern web technologies.
 
-I believe in learning fundamentals deeply, writing maintainable code, and building projects that reflect how real engineering teams work — not just demos, but systems with intent.
+I believe in learning fundamentals deeply, writing maintainable code, and building projects that reflect how real engineering teams work - not just demos, but systems with intent.
 
 Currently focused on building AI-integrated full-stack applications and contributing to meaningful open-source projects.
 
@@ -27,7 +27,6 @@ Currently focused on building AI-integrated full-stack applications and contribu
 - **Node.js**
 - **Express.js**
 - **RESTful API Design**
-- **JWT-based Authentication & Authorization**
 
 ### Database & Caching
 - **MongoDB** (schema design, indexing)
@@ -39,9 +38,9 @@ Currently focused on building AI-integrated full-stack applications and contribu
 - **Tool-based AI agents**
 - **Prompt engineering for autonomous decision-making**
 - **AI safety rules & constraints**
-- **Observability using LangSmith**
+- **Observability using LangSmith Langfuse**
 
-### System Design & Engineering Practices
+### System Design
 - **Clean architecture** (controllers, services, models)
 - **Separation of concerns**
 - **Environment-based configuration**
