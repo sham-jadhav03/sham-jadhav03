@@ -1,21 +1,20 @@
 # Hi there, I'm Ghansham! 👋
-
 ## 👨‍💻 About Me
 
-I’m a **full-stack engineer** passionate about **system design** and **agentic AI architectures**. I build scalable, production-grade applications where **clarity**, **safety**, and **structure** are paramount.
-
-My core expertise lies in designing **clean backend systems**, **scalable APIs**, and **AI-powered workflows** where agents operate autonomously under defined constraints. I focus on **multi-agent orchestration**, **backend-driven AI**, and solving complex problems with **JavaScript** and modern web tech.
-
-I believe in mastering fundamentals and building systems with intent—not just demos. Currently, I'm developing **AI-integrated full-stack apps** and contributing to open source.
+I’m a full-stack developer who enjoys building real-world applications and learning by working on backend systems. I’m especially interested in clean APIs, system design, and practical uses of AI. I value strong fundamentals and thoughtful design, and I’m currently building projects and contributing to open source as I grow.
 
 ## 🔧 Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
+| Domain | Technologies |
+| :--- | :--- |
 | **Languages** | 🟡 JavaScript (ES6+), ☕ Java (DSA/Logic) |
-| **Frontend** | ⚛️ React.js, ▲ Next.js, 🎨 Tailwind CSS, 🌐 HTML5, 💅 CSS3, SCSS |
-| **Backend** | 🟢 Node.js, 🚂 Express.js, 🔌 RESTful API Design |
-| **Database** | 🍃 MongoDB (Schema Design), 🔴 Redis (Caching) |
-| **AI Agents** | 🦜🔗 LangChain, 🤖 Langraph, 🤖 Multi-agent Systems, 🛠️ Tool-based Agents, 🧠 Prompt Engineering, 🛡️ AI Safety, 🔍 LangSmith / Langfuse |
-| **Design** | 🏗️ Clean Architecture, 🧩 Separation of Concerns, ⚙️ Env-based Config, 📊 Ingestion Pipelines |
-| **Tools** | 🐙 Git, 🐈 GitHub (PRs, Feature Branches, Open Source) |
+| **Frontend** | ⚛️ React.js, ▲ Next.js, 🎨 Tailwind CSS, 🌐 HTML5/CSS3 |
+| **Backend** | 🟢 Node.js, 🚂 Express.js, 🔌 RESTful APIs |
+| **Database** | 🍃 MongoDB, 🔴 Redis |
+| **AI Agents** | 🦜🔗 LangChain, 🤖 Multi-agent Systems, 🧠 Prompt Engineering, 🛡️ AI Safety |
+| **DevOps & Tools** | 🐳 Docker, � Git, ☁️ LangSmith / Langfuse |
+
+---
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ghansham-jadhav-98112128a/) 
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/sham_jadhav18)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:ghanshamjadhav2003@gmail.com)
