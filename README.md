@@ -7,8 +7,8 @@ I’m a full-stack developer who enjoys building real-world applications and lea
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | 🟡 JavaScript (ES6+), ☕ Java (DSA/Logic) |
-| **Frontend** | ⚛️ React.js, ▲ Next.js, 🎨 Tailwind CSS, 🌐 HTML5/CSS3 |
+| **Languages** | 🟡 JavaScript (ES6+), ☕ Java (DSA/Problem Solving), 🐍 Python |
+| **Frontend** | ⚛️ React.js, ▲ Next.js, 🎨 Tailwind CSS, 🌐 HTML5/CSS3, 🎨 SCSS |
 | **Backend** | 🟢 Node.js, 🚂 Express.js, 🔌 RESTful APIs |
 | **Database** | 🍃 MongoDB, 🔴 Redis |
 | **AI Agents** | 🦜🔗 LangChain, 🤖 Multi-agent Systems, 🧠 Prompt Engineering, 🛡️ AI Safety |
