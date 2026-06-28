@@ -1,4 +1,4 @@
-﻿
+
 
 # Hi there, I'm Ghansham! 👋
 ## 👨‍💻 About Me
@@ -19,6 +19,8 @@ I’m a full-stack developer who enjoys building real-world applications and lea
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ghansham-jadhav-98112128a/) 
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat-square&logo=twitter)](https://x.com/sham_jadhav18)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:ghanshamjadhav2003@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/sham-jadhav03)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/sham_jadhav03/)
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sham-jadhav03&label=Profile%20Views&color=007bff&style=flat-square" alt="Profile Views" height="15" />
